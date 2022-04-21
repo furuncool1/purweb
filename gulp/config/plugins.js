@@ -4,6 +4,6 @@ import newer from "gulp-newer";
 
 export const plugins = {
     replace: replace,
-    // browsersync: browsersync,
+    browsersync: browsersync,
     newer: newer,
 }
